@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-coldrye",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Shared eslint configuration for all coldrye projects",
   "license": "Apache-2.0",
   "keywords": [
