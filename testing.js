@@ -16,8 +16,10 @@
 
 
 module.exports = {
+	"env" : {
+		"mocha" : true
+	},
     "rules": {
-
 	/* Test specific overrides */
         "func-names": 1,
         "brace-style": [1, "allman"],
