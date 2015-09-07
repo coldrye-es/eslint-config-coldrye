@@ -119,7 +119,7 @@ module.exports = {
 		/* Warnings */
 
         "max-params": [1, 5],
-        "complexity": [1, 5],
+        "complexity": [1, 9],
         "max-depth": [1, 4],
         "no-bitwise": 1,
 
