@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-coldrye",
+  "version": "0.0.1",
+  "description": "Shared eslint configuration for all coldrye projects",
+  "license": "Apache-2.0",
+  "keywords": [
+    "eslint",
+    "elintconfig"
+  ],
+  "homepage": "https://github.com/coldrye-es/eslint-config-coldrye",
+  "author": "Carsten Klein",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldrye-es/eslint-config-coldrye.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coldrye-es/eslint-config-coldrye/issues"
+  },
+  "scripts": {
+  },
+  "main": "index.js"
+}
