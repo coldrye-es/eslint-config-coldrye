@@ -21,8 +21,8 @@ module.exports = {
 	},
     "rules": {
 	/* Test specific overrides */
-        "func-names": 1,
-        "brace-style": [1, "allman"],
+        "func-names": 0,
+        "brace-style": [0, "allman"],
     }
 }
 
