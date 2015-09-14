@@ -25,6 +25,7 @@ module.exports = {
 	/* Test specific overrides */
         "func-names": 0,
         "brace-style": [0, "allman"],
+		"no-console" : 0
     }
 }
 
