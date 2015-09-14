@@ -17,7 +17,9 @@
 
 module.exports = {
 	"env" : {
-		"mocha" : true
+		"mocha" : true,
+		"node" : true,
+		"browser" : true
 	},
     "rules": {
 	/* Test specific overrides */
