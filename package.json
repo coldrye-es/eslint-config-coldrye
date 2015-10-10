@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "keywords": [
     "eslint",
-    "elintconfig"
+    "eslintconfig"
   ],
   "homepage": "https://github.com/coldrye-es/eslint-config-coldrye",
   "author": "Carsten Klein",
