@@ -92,7 +92,7 @@ module.exports = {
         "no-lonely-if": 2,
         "no-loop-func": 2,
         "no-mixed-requires": [2, false],
-        "no-mixed-spaces-and-tabs": [2, false],
+        "no-mixed-spaces-and-tabs": 2,
         "linebreak-style": [2, "unix"],
         "no-multi-spaces": 2,
         "no-multi-str": 2,
