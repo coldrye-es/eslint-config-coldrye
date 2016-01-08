@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Carsten Klein
+ * Copyright 2015-2016 Carsten Klein
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
