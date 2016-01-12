@@ -1,3 +1,15 @@
+<a name="0.0.11"></a>
+## 0.0.11 (2016-01-12)
+
+
+* version bump v0.0.11 ([70ceb59](https://github.com/coldrye-es/eslint-config-coldrye/commit/70ceb59))
+
+### fix
+
+* fix(testing): add no-loop-func:0 ([c1c0d64](https://github.com/coldrye-es/eslint-config-coldrye/commit/c1c0d64))
+
+
+
 <a name="0.0.10"></a>
 ## 0.0.10 (2016-01-08)
 
@@ -7,7 +19,7 @@
 
 ### chore
 
-* chore(LICENSE): update copyright info ([a9e1533](https://github.com/coldrye-es/eslint-config-coldrye/commit/a9e1533))
+* chore(LICENSE): update copyright info ([14090ee](https://github.com/coldrye-es/eslint-config-coldrye/commit/14090ee))
 
 
 
