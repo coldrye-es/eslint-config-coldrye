@@ -75,7 +75,6 @@ module.exports = {
         "no-duplicate-case": 2,
         "no-else-return": 2,
         "no-empty-character-class": 2,
-        "no-empty-label": 2,
         "no-eq-null": 2,
         "no-ex-assign": 2,
         "no-extra-bind": 2,
