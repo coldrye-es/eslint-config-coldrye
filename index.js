@@ -49,6 +49,8 @@ module.exports = {
         "no-continue": 0,
         "no-div-regex": 0,
         "no-ternary": 0,
+        /* since we use esdoc, we cannot use this */
+        "valid-jsdoc": 0,
 
 		/* Warnings */
 
@@ -99,7 +101,6 @@ module.exports = {
         "comma-dangle": [2, "never"],
         "camelcase": 2,
         "valid-typeof": 2,
-        "valid-jsdoc": 2,
         "no-this-before-super": 2,
         "no-throw-literal": 2,
         "func-names": 2,
