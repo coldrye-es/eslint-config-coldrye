@@ -1,3 +1,24 @@
+<a name="0.0.13"></a>
+## [0.0.13](https://github.com/coldrye-es/eslint-config-coldrye/compare/v0.0.12...v0.0.13) (2016-05-01)
+
+
+### Bug Fixes
+
+* **index:** disable valid-jsdoc([e695470](https://github.com/coldrye-es/eslint-config-coldrye/commit/e695470))
+* **testing:** enable es6([f594c63](https://github.com/coldrye-es/eslint-config-coldrye/commit/f594c63))
+
+
+
+<a name="0.0.12"></a>
+## 0.0.12 (2016-02-19)
+
+
+### fix
+
+* fix(index): no-empty-labels was deprecated ([f28754d](https://github.com/coldrye-es/eslint-config-coldrye/commit/f28754d))
+
+
+
 <a name="0.0.11"></a>
 ## 0.0.11 (2016-01-12)
 
